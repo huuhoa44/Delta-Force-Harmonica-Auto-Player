@@ -5,7 +5,7 @@
 ---
 
 <a id="english"></a>
-# 🇬🇧 English
+# EN English
 
 **Credit:** huuhoa43
 
